@@ -4,13 +4,13 @@
 
 ## Features  
 
--Irrigation system on and off
--Graph display with temperature, irrigation history, and actions taken
--Greenhouse temperature control using PID
--Radiator power control (incandescent light bulb)
--Fan power control (CPU fan or any other DC motor)
--Temperature and irrigation cycle scheduling
--The embedded system will incorporate a web server for remote control (local via IP) of the functions described above.
+ - Irrigation system on and off  
+ - Graph display with temperature, irrigation history, and actions taken  
+ - Greenhouse temperature control using PID  
+ - Radiator power control (incandescent light bulb)  
+ - Fan power control (CPU fan or any other DC motor)  
+ - Temperature and irrigation cycle scheduling  
+ - The embedded system will incorporate a web server for remote control (local via IP) of the functions described above.  
 
 ## Requirements  
 
