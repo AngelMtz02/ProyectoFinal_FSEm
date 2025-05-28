@@ -55,3 +55,7 @@
 ## Authors  
 
 Ambriz Zuloaga Brayan Arturo, Martínez Ramírez José Ángel, Mendoza Flores Axel Fernando 
+
+## License  
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details. 
