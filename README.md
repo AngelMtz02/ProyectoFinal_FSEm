@@ -1,4 +1,4 @@
-#GC : Greenhouse control  
+## GC : Greenhouse control  
 
 **GC** is an academic project developed to transform a Raspberry Pi 4 into a greenhouse control. The system allows users to which allows you to remotely monitor and manage a greenhouse.
 
